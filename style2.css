@@ -1,0 +1,62 @@
+body{
+  background-color: #8ccfe0;
+}
+
+p.message,h1{font-family: showcard gothic ;
+font-size:xxx-large;
+color:red;
+}
+form{
+ 
+  border-radius: 32px;
+  background-color: aliceblue;
+  width: 46%;
+  margin: 70px;
+  padding: 49px;
+
+}
+/*table{background-color : orange ;
+}
+td{font-family: sigmar one;} 
+  tr.a{ text-align: center;}
+  input:invalid {
+    border: 2px dashed red;
+  }
+            
+            .i{max-width: 170px;}
+            .conx{
+              text-align: center;
+            }
+            input.botton {
+                background-color: cornsilk;
+                color: coral;
+                padding: 9px 20px;
+                margin: 9px 0;
+                border: none;
+                cursor: pointer;
+                width: 12%
+          }
+          input.botton:hover{
+            background-color: orange;
+            color: cornsilk;
+            cursor: pointer;
+          }
+          input {
+            padding: 3px 25px;
+            margin: 4px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+
+span{
+  font-family: arial;
+}
+input.border {
+  border: 1.5px solid ;
+}
+td{
+  
+  padding-left: 40px;
+  padding-top: 11px;
+  padding-bottom: 9px;}*/

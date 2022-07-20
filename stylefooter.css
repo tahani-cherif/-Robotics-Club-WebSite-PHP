@@ -1,0 +1,25 @@
+footer {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    background-color: pink ;
+  }
+  .resaux{
+    margin-left: 73%;
+    
+  }
+  .adresse{
+    font-size: x-large;
+    margin-left: 20%;
+  }
+  .footer{    margin-top: 0%;
+      font-size: 28px;
+      float: right;
+      text-align: center;
+      margin-right: 190px;}
+      iframe{
+    float: left;
+    margin-left: 8%;
+  }

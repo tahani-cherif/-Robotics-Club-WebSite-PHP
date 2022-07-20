@@ -1,0 +1,20 @@
+body{
+  background-color: #8ccfe0;
+}
+p.message{ font-family: showcard gothic ;
+    font-size:xxx-large;
+    color:green;}
+h2{font-family: sigmar one ;
+    text-align: center;
+}
+form{
+  width: 42%;
+    background-color: aliceblue;
+    margin: 60px;
+    margin-left: 369px;
+    padding: 73px;
+    padding-right: 87px;
+    padding-left: 109px;
+    border-radius: 39px;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 20%), 0 5px 5px 0 rgb(0 0 0 / 24%);
+}
